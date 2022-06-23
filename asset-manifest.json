@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sthav/Flashtype/static/css/main.215639ef.css",
+    "main.js": "/sthav/Flashtype/static/js/main.93ad4d6c.js",
+    "static/media/flash.png": "/sthav/Flashtype/static/media/flash.96e141d3fe30913c3117.png",
+    "static/media/logo.png": "/sthav/Flashtype/static/media/logo.904ac8fd0f7b25e86967.png",
+    "index.html": "/sthav/Flashtype/index.html",
+    "main.215639ef.css.map": "/sthav/Flashtype/static/css/main.215639ef.css.map",
+    "main.93ad4d6c.js.map": "/sthav/Flashtype/static/js/main.93ad4d6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.215639ef.css",
+    "static/js/main.93ad4d6c.js"
+  ]
+}
